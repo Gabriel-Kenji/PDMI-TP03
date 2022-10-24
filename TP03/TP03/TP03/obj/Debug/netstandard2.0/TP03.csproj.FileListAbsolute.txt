@@ -1,0 +1,15 @@
+D:\FACUL\PDM\TP03\TP03\TP03\bin\Debug\netstandard2.0\TP03.deps.json
+D:\FACUL\PDM\TP03\TP03\TP03\bin\Debug\netstandard2.0\TP03.dll
+D:\FACUL\PDM\TP03\TP03\TP03\bin\Debug\netstandard2.0\TP03.pdb
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\TP03.csproj.AssemblyReference.cache
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\TP03.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\TP03.AssemblyInfoInputs.cache
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\TP03.AssemblyInfo.cs
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\TP03.csproj.CoreCompileInputs.cache
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\TP03.dll
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\refint\TP03.dll
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\TP03.pdb
+D:\FACUL\PDM\TP03\TP03\TP03\obj\Debug\netstandard2.0\ref\TP03.dll
